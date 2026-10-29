@@ -1,0 +1,22 @@
+{
+  "wheel_id": 507,
+  "structure": "umbrella",
+  "slug": "solicitorsaustralia-150",
+  "project": "solicitors-brisbane-6c81dedca90ffc62b5106f70fde1cd4a32dc8616",
+  "parent_t1_ref": "solicitorsaustralia-009",
+  "node_role": "buffer",
+  "money_target": "solicitorsaustralia.com.au",
+  "primary_kw": "solicitors brisbane",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/solicitors-brisbane-6c81dedca90ffc62b5106f70fde1cd4a32dc8616/",
+  "tier": "T2",
+  "writeback_nonce": "b2f062285372ce12",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/solicitors-brisbane-009/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
